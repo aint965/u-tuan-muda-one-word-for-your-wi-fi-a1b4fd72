@@ -1,0 +1,1 @@
+{"description":"One Word for Your Wi-Fi — the word 'Teenager' (make.fun bounty u-tuan-muda-one-word-for-your-wi-fi-a1b4fd72)","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"one-word-for-your-wi-fi-teenager","scripts":{"start":"node main.ts","verify":"node verify.mjs"},"type":"module","version":"1.0.0"}
